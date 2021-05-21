@@ -1,7 +1,7 @@
 <a href="https://github.com/RealMarvn/RealMarvn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarvn&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarvn&show_icons=true&theme=algolia" />
 </a>
 
 <a href="https://github.com/RealMarvn/RealMarvn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=realmarvn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marvn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=realmarvn&show_icons=true&theme=algolia" alt="Marvn's GitHub Stats" />
 </a>
