@@ -10,8 +10,8 @@ My name is Marvin and i really dont know what I should write in here :D.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarvn&show_icons=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/RealMarvn/Java-YouTube-Data-Notifications-Wrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realmarvn&repo=Java-YouTube-Data-Notifications-Wrapper&show_icons=true&theme=algolia" alt="Marvn's GitHub Repo" />
+<a href="https://github.com/RealMarvn/Java-YouTube-Notifications-Wrapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realmarvn&repo=Java-YouTube-Notifications-Wrapper&show_icons=true&theme=algolia" alt="Marvn's GitHub Repo" />
 </a>
 
 ## 🔧 IDEs & Languages
