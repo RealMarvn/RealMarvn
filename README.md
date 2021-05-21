@@ -14,6 +14,10 @@ My name is Marvin and i really dont know what I should write in here :D.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realmarvn&repo=Java-YouTube-Notifications-Wrapper&show_icons=true&theme=algolia" alt="Marvn's GitHub Repo" />
 </a>
 
+<a href="https://github.com/RealMarvn/LetsWatch-Discord-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realmarvn&repo=LetsWatch-Discord-Bot&show_icons=true&theme=algolia" alt="Marvn's GitHub Repo" />
+</a>
+
 ## 🔧 IDEs & Languages
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Webstorm_IDEA-informational?style=flat&logo=webstorm&logoColor=white&color=blue)
