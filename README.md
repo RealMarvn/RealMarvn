@@ -1,18 +1,14 @@
-## HeyHoo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Marvin and I really dont know what I should write in here :D.
+<h1 align="center">Hi 👋, I'm Marvn</h1>
+<h3 align="center">A lazy student at University of Constance trying multiple things</h3>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/RealMarvn/RealMarvn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=realmarvn&show_icons=true&theme=algolia" alt="Marvn's GitHub Stats" />
-</a>
 
-<a href="https://github.com/RealMarvn/RealMarvn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarvn&show_icons=true&theme=algolia" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmarvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="realmarvn" /></p>
 
-<a href="https://github.com/RealMarvn/Uni-PK1-ChessBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realmarvn&repo=Uni-PK1-ChessBot&show_icons=true&theme=algolia" alt="Marvn's GitHub Repo" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realmarvn&show_icons=true&theme=dark&locale=en" alt="realmarvn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realmarvn&theme=dark" alt="realmarvn" /></p>
+
 
 ## 🔧 IDEs & Languages
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
@@ -30,6 +26,7 @@ My name is Marvin and I really dont know what I should write in here :D.
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
