@@ -2,13 +2,10 @@
 <h3 align="center">A lazy student at University of Constance trying multiple things</h3>
 
 ## &#x1f4c8; GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmarvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="realmarvn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realmarvn&show_icons=true&theme=dark&locale=en" alt="realmarvn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realmarvn&theme=dark" alt="realmarvn" /></p>
-
+<div style="display:flex; flex-direction:row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=realmarvn&theme=tokyonight&layout=compact&hide=css" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarvn&theme=tokyonight&layout=compact&hide=css&exclude_repo=ws23-contest,ss24-mediaplayer,ws23-24-java,mui-wrapped-components,advanced-portfolio-tracker,SoundboardServer,wuelstephan-web,time-dependent-quotes,gma3-osc,linkedin-login-bypass"  height="200" />
+</div>
 
 ## 🔧 IDEs & Languages
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
