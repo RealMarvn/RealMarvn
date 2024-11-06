@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marvn</h1>
+<h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">A lazy student at University of Constance trying multiple things</h3>
 
 ## &#x1f4c8; GitHub Stats
